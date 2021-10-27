@@ -1,0 +1,26 @@
+{
+  "name": "photo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-mha/photo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jose-mha/photo-app/issues"
+  },
+  "homepage": "https://github.com/jose-mha/photo-app#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.4",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
